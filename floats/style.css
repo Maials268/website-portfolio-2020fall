@@ -1,0 +1,33 @@
+menu {
+  height: 100px;
+  background-color: #B2D6FF;    /* Medium blue */
+}
+
+.sidebar {
+  float: left;                  /* Add this */
+  width: 200px;
+  height: 300px;
+  background-color: #F09A9D;
+}
+
+.content {
+  height: 500px;
+  background-color: #F5CF8E;    /* Yellow */
+}
+
+.footer {
+  height: 200px;
+  background-color: #D6E9FE;    /* Light blue */
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-linkedin {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
