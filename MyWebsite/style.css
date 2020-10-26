@@ -12,7 +12,7 @@ header {
     right: 0;
     height: 50px;
     line-height: 50px;
-    background-color: #eee;
+    background-color: #080808;
 }
 
 header * {
@@ -66,32 +66,68 @@ section h3 {
 
 header a {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 /* Add everything below here */
 
 #hero {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');
+    background-image:
 }
 
 #about {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/beach.jpg');
+    background-image:
 }
 
 #contact {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/canyon.jpg');
+    background-image: 
 }
-.fa-linkedin {
-  background: #007bb5;
-  color: white;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
-.fa-linkedin {
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+
   text-align: center;
+
   text-decoration: none;
-  margin: 5px 2px;
-  border-radius: 50%;
+}
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: #e25098;
+}
+
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: black;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color:#e25098 ;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
 }

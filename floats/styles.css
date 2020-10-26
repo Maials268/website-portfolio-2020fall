@@ -31,3 +31,18 @@ menu {
   text-decoration: none;
   border-radius: 50%;
 }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.page {
+  width: 900px;
+  margin: 0 auto;
+}
+.content {
+  float: left;                  /* Add this */
+  width: 650px;
+  height: 500px;
+  background-color: #F5CF8E;
+}
