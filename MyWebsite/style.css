@@ -12,7 +12,7 @@
 /* Style the top navigation bar */
 .navbar {
   overflow: hidden; /* Hide overflow */
-  background-color: #333; /* Dark background color */
+  background-color:#708090 ; /* Dark background color */
 }
 
 /* Style the navigation bar links */
@@ -32,7 +32,7 @@
 
 /* Change color on hover/mouse-over */
 .navbar a:hover {
-  background-color: #ddd; /* Grey background color */
+  background-color: #f1f1f1; /* Grey background color */
   color: black; /* Black text color */
 }
 /* Ensure proper sizing */
