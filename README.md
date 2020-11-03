@@ -10,4 +10,4 @@ All of my main file are located inside the folder titled "MyWebsite"
 
 Index.html is my website's homepage and all other pages can be access from it once opened in search engine.
 
-I also plan on adding the navigation bar to each to page, for now you just have to just hit backspace. 
+Future plans: Change font of navigation bar to match homepage nav bar & add homepage button to nav bar 
