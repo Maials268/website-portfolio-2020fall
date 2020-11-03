@@ -6,3 +6,5 @@ Homepage: Large amount of space underneath recent activies section might add ano
 Website is fully responsive
 
 All of my main file are located inside the folder titled "MyWebsite" 
+
+Index.html is my website's homepage and all other pages can be access from it once opened in search engine.
