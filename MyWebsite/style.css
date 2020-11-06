@@ -351,3 +351,7 @@ figcaption {
   text-align: left;
   font-size:small;
 }
+.introduction-section {
+    font-size:x-large;
+    text-align: center;
+  }
