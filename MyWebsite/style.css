@@ -91,11 +91,12 @@ body {
 
 .masthead {
   padding: 6em 0;
-  background-image: url('https://i.imgur.com/yGmrlyg.jpg');
+  background-image: url('https://i.imgur.com/yGmrlyg.jpg');>
   background-size: cover;
   background-repeat: no-repeat;
   border-top: solid 1em #D3D3D3;
 }
+
 
 .masthead-intro {
     /* Layout Declarations */
