@@ -1,13 +1,1 @@
-For my project I've chosen to create a personal website. The website's main focus is writing and reading. It includes recommendations for reading as well as a music playlist. It also includes an About me page, a contact page, and some of my own personal work
-
-*Contact Page: My Linkedin suppose to show up the form of a badge that is located in the center of the page but sometimes it shows up up as a hyperlink. I'm not quite sure how to fix that.
-
-Homepage: Large amount of space underneath recent activies section, might add another element to fill up space.
-
-Website is fully responsive
-
-All of my main file are located inside the folder titled "MyWebsite" 
-
-Index.html is my website's homepage and all other pages can be access from it once opened in search engine.
-
-Future plans: Change font of navigation bar to match homepage nav bar & add homepage button to nav bar 
+For my project I've chosen to create a personal website/portfolio. This website is center around my writing experiences. I wanted to created something thats is a mixture between between professional and casual . Therefore, I have included elements that could be considered both. For instance, on the homepage of chosen to include an embedded Spotify playlists specifically for writing along with a book recommendation. Moreover, on the right I've chosen to included recent activities I participated in such as a conference I took part in over the summer as well as an independent study that I am currently in. I then have have an About Me page that is presented in a fashion similar to a very short cover letter. I additionally have a contact page where I have embedded a link to my linked in. Lastly, I have created a page that is meant to showcase of the writing pieces I have taken part in. The layout of this page is in three rows. One row for research writing, one row for academic writing and another row for academic writing.
