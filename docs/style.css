@@ -1,7 +1,7 @@
 .header {
   padding: 80px; /* some padding */
   text-align: center; /* center the text */
-  background: #33cccc; /* blue background */
+  background: #33cccc;
   color: white; /* white text color */
 }
 
@@ -12,7 +12,7 @@
 /* Style the top navigation bar */
 .navbar {
   overflow: hidden; /* Hide overflow */
-  background-color:#708090 ; /* Dark background color */
+  background-color:#708090 ;
 }
 
 /* Style the navigation bar links */
@@ -315,7 +315,7 @@ body {
   }
 }
 .button {
-  background-color: #4CAF50; /* Green */
+  background-color: #4CAF50;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -350,3 +350,29 @@ figcaption {
     font-size:x-large;
     text-align: center;
   }
+  body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color:#708090;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
